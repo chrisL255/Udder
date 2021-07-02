@@ -30,7 +30,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Cow" translatesAutoresizingMaskIntoConstraints="NO" id="H1M-KC-kb3">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Milk" translatesAutoresizingMaskIntoConstraints="NO" id="H1M-KC-kb3">
                                 <rect key="frame" x="0.0" y="590" width="414" height="238"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -45,7 +45,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Cow" width="263" height="191"/>
+        <image name="Milk" width="1600" height="1000"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
